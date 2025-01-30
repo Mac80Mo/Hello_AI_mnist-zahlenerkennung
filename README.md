@@ -33,5 +33,4 @@ Hello_AI_mnist-zahlenerkennung/
 │   ├── tensoren.py              # Hilfsfunktionen (optional)
 ├── README.md        # Dokumentation
 ├── requirements.txt # Abhängigkeiten
-└── venv/            # Virtuelle Python-Umgebung
-
+└── .gitignore       # Dateien und Ordner, die nicht ins Repository gehören
